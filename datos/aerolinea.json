@@ -1,0 +1,39 @@
+{
+    "clientes": [
+        {
+            "tipoCliente": "Natural",
+            "nombre": "Carlos Pérez"
+        },
+        {
+            "tipoCliente": "Natural",
+            "nombre": "Paula"
+        },
+        {
+            "tipoCliente": "Corporativo",
+            "nombreEmpresa": "Tech Innovations",
+            "tamanoEmpresa": 50
+        },
+        {
+            "tipoCliente": "Corporativo",
+            "nombreEmpresa": "Global Solutions",
+            "tamanoEmpresa": 200
+        }
+    ],
+    "rutas": [
+        {
+            "codigo": "4558",
+            "origen": "Bogotá",
+            "destino": "Medellín",
+			"horaSalida":"",
+			"horaLlegada":""
+        }
+    ],
+    "vuelos": [
+        {
+            "numeroVuelo": "AV001",
+            "codigoRuta": "4558",
+            "fecha": "2024-11-05",
+            "capacidad": 150
+        }
+    ]
+}
